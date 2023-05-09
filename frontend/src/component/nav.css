@@ -1,0 +1,11 @@
+.nav-link{
+    color: rgb(57, 129, 103);
+    font-weight: bolder;
+}
+
+.navbar-brand{
+    color: white;
+    font-weight: bolder;
+    font-size: x-large;
+    padding-bottom: 10px;
+    }
